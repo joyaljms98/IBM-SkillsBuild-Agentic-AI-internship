@@ -1,6 +1,5 @@
 # Spectre AI: Your Indian Legal AI Agent ⚖️
 
-see it in action [An Internal Link](https://html-preview.github.io/?url=https://github.com/joyaljms98/IBM-SkillsBuild-Agentic-AI-internship/blob/Joyal's-Repository-default-branch/Spectre%20AI/index.html)
 Spectre AI is a dedicated legal assistant engineered to simplify the complexities of Indian law. This web-based application provides users with clear, step-by-step guidance on various legal issues and connects them to official government resources and contact information.
 
 ## ✨ Features
@@ -28,3 +27,5 @@ Spectre AI is a dedicated legal assistant engineered to simplify the complexitie
 * **APIs**:
     * **Google Gemini API**: Used for generating AI responses.
     * **OpenAI API**: An alternative option for the AI backend.
+
+See the project in action [Spectre AI](https://html-preview.github.io/?url=https://github.com/joyaljms98/IBM-SkillsBuild-Agentic-AI-internship/blob/Joyal's-Repository-default-branch/Spectre%20AI/index.html)
